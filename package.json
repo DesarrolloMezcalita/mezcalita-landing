@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "bootstrap-vue": "^2.5.0",
-    "core-js": "^3.6.4",
+    "core-js": "^3.25.2",
     "vue": "^2.6.11",
     "vue-dynamic-dropdown": "^1.0.12",
     "vue-owl-carousel": "^2.0.3",
